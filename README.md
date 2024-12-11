@@ -4,6 +4,10 @@
 This project implements a simple **Bookstore Inventory Management System** using **Object-Oriented Programming (OOP)** concepts in C++. The system supports basic inventory operations like adding, browsing, and selling items.
 
 ---
+## Specifications
+- Use C++14 or higher
+
+---
 
 ## Features
 - Add books or magazines to inventory.
